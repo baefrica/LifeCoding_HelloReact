@@ -7,7 +7,7 @@
   3) 명단 정보 수정 (Update)
   4) 명단 삭제 (Delete)
 
-<결과>
+<h3><결과>
 <hr>
 
 ![image](https://user-images.githubusercontent.com/108685557/210597489-d85d5b1a-105b-4d56-af1e-28799528fa92.png)
